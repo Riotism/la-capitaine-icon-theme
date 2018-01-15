@@ -9,9 +9,9 @@
 		</clipPath>
 	</defs>
 	<rect id="paper" x="10" y="2" width="44" height="60" rx="3" ry="3" fill="url(#a)" />
-	<rect id="labelShade" x="10" y="2" width="44" height="60" rx="3" ry="3" fill="#000" opacity="0.7" clip-path="url(#shadeClip)" />
+	<rect id="labelShade" x="10" y="2" width="44" height="60" rx="3" ry="3" fill="#000" opacity="0.6" clip-path="url(#shadeClip)" />
 	<g id="symbol">
-		<rect x="22" y="16" width="20" height="22" rx="1" ry="1" fill="#000" opacity="0.7" />
+		<rect x="22" y="16" width="20" height="22" rx="1" ry="1" fill="#000" opacity="0.6A" />
 		<g id="zip" fill="#FFF" opacity="0.9">
 			<rect x="30.9" y="16.7" width="2.2" height="1.1" rx="0.45" ry="0.45" />
 			<rect x="30.9" y="18.3" width="2.2" height="1.1" rx="0.45" ry="0.45" />
